@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=web-scraper
+Exec=web-scraper
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
+Icon=com.github.Latesil.web-scraper

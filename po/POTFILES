@@ -1,0 +1,7 @@
+data/com.github.Latesil.web-scraper.web-scraper.desktop.in
+data/com.github.Latesil.web-scraper.web-scraper.appdata.xml.in
+data/com.github.Latesil.web-scraper.web-scraper.gschema.xml.in
+src/window.ui
+src/main.py
+src/window.py
+
